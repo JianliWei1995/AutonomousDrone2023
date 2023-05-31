@@ -2,7 +2,8 @@
 
 ## Project Description
 Compared with UAS geotracking project 2022, we have two updates:
-- get
+- We applied drone mapping to generate aerial map to replace aerial orthophoto download from Google Earth. Aerial map constains most recent updates, furthermore enhance UAS geotraking pipeline robustness.
+- When generated aerial map available, we replace SuperGlue feature matching scheme with ORB detector. ORB detector will reduce pipeline reliance on computer memory and accelerate pipeline running speed.
 
 ![demo_vid](https://github.com/OSUPCVLab/AutonomousDrone2023/blob/main/demo/UAV%20geotracking%20demo.gif)
 
