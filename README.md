@@ -1,7 +1,8 @@
-# AutonomousDrone2023
+# UAS Geotracking 2023
 
 ## Project Description
-We launched this project to achieve UAS Geotracking in GPS-denied environment (GPS weak, unstable or unavailable). We used [DJI Mavic air 2](https://www.dji.com/mavic-air-2?site=brandsite&from=nav) for data collection and test flight. Other drone brands may lead to incorrect results for unknown reason. This version is ORB based.
+Compared with UAS geotracking project 2022, we have two updates:
+- get
 
 ![demo_vid](https://github.com/OSUPCVLab/AutonomousDrone2023/blob/main/demo/UAV%20geotracking%20demo.gif)
 
