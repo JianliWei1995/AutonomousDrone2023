@@ -7,7 +7,7 @@
 ![demo_vid](https://github.com/OSUPCVLab/AutonomousDrone2023/blob/main/demo/UAV%20geotracking%20demo.gif)
 
 
-## UAV test flight
+## UAS test flight
 Our test flight is at below area. The aerial mapping is collected with the Mavic Air 2. It most green and few buildings and road. Feel free to download them and run our demo.
 
 <p>
